@@ -1,0 +1,22 @@
+.winner{
+    color: green;
+}
+body{
+    background-color:white;
+}
+.container{
+    border: 3px solid white;
+    background-color: aquamarine;
+    width: 200px;
+    box-shadow: 3px 3px 3px 3px gray;
+    height: 300px;
+}
+.container h2{
+    font-size: 20px;
+    text-align: center;
+}
+.container button{
+    background-color: green;
+    color: white;
+    border-color: green;
+} 
